@@ -13,6 +13,14 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+
+    if(window.location.hash === '#thanks') {
+        $('#contact').hide();
+        $('#thankYou').show();
+        $('html, body').stop().animate({
+            scrollTop: $('#thankYou').offset().top
+        }, 1500, 'easeInOutExpo');
+    }
 });
 
 // Floating label headings for the contact form
