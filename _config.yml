@@ -1,10 +1,52 @@
 # Site settings
+<<<<<<< HEAD
 title: Your awesome title
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 twitter_username: jekyllrb
 github_username:  jekyll
 baseurl: "/freelancer-theme"
+=======
+title: Charles Kirk
+email: charlie.r.kirk@gmail.com
+<<<<<<< HEAD
+url: https://charleskirk.github.io
+=======
+url: https://charleskirk.github.io/ckfolio
+>>>>>>> 6edf4e868ffd750ac08f4c19a92f5bc43e92890d
+description: "Chicago based Freelance full-stack engineer that tackles tricky problems."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+resume:
+  url: resume-2015.pdf
+
+# Footer settings
+footer:
+  copyright: Charles Kirk
+  location: Chicago, IL
+  social: Social
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/charleskirk
+  - title: github
+    url: https://github.com/charleskirk
+  - title: linkedin
+    url: https://www.linkedin.com/pub/charles-kirk/36/396/a5a
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+>>>>>>> master
 
 # Build settings
 markdown: kramdown
