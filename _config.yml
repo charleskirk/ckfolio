@@ -1,7 +1,11 @@
 # Site settings
 title: Charles Kirk
 email: charlie.r.kirk@gmail.com
+<<<<<<< HEAD
 url: https://charleskirk.github.io
+=======
+url: https://charleskirk.github.io/ckfolio
+>>>>>>> 6edf4e868ffd750ac08f4c19a92f5bc43e92890d
 description: "Chicago based Freelance full-stack engineer that tackles tricky problems."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
